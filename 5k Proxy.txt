@@ -1,5 +1,3 @@
-Telegram Channel Proxy https://t.me/HQPROX
-
 gate.dc.smartproxy.com:20001:jabaple:jabaple
 gate.dc.smartproxy.com:20002:jabaple:jabaple
 gate.dc.smartproxy.com:20003:jabaple:jabaple
